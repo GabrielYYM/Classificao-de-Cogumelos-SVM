@@ -1,1 +1,1 @@
-# Classifica-o-de-Cogumelos-SVM
+# Classificao-de-Cogumelos-SVM
