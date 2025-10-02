@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wHM48l8zzBXN-TnszemsFqngTpIC8Vfg?usp=sharing)
 # 🍄 Classificação de Cogumelos com IA
 
 Este projeto investiga se é possível **identificar cogumelos comestíveis ou venenosos** apenas analisando características do **chapéu**, usando **Inteligência Artificial (IA)**.
